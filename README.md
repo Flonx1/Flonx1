@@ -25,11 +25,8 @@
 [Посетите мою биографию](https://guns.lol/flonxi) чтобы узнать больше!
 
 ### 📊 Статистика GitHub
-<!-- Если хотите добавить статистику, раскомментируйте -->
-<!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
--->
 
 ### 📫 Как связаться
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/flonxi)
-[![Discord](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://discordapp.com/users/1216617767495663669)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1216617767495663669)
