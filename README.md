@@ -1,7 +1,6 @@
 # Hi, I'm Flonxi! 👋  
 
-[![Bio](https://img.shields.io/badge/📝-My%20Bio-blue?style=flat-square)](https://guns.lol/flonxi)  
-[![Languages](https://img.shields.io/badge/🌍-Multilingual-blueviolet?style=flat-square)]()  
+[![Bio](https://img.shields.io/badge/📝-My%20Bio-blue?style=flat-square)](https://guns.lol/flonxi)  [![Languages](https://img.shields.io/badge/🌍-Multilingual-blueviolet?style=flat-square)]()  
 
 ### 🛠️ Technologies & Skills  
 **Programming Languages:**  
