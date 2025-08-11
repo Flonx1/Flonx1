@@ -25,7 +25,7 @@
 [Посетите мою биографию](https://guns.lol/flonxi) чтобы узнать больше!
 
 ### 📊 Статистика GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=flonxi&show_icons=true&theme=radical)
 
 ### 📫 Как связаться
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/flonxi)
