@@ -20,8 +20,5 @@ Hey! I'm Flonxi, a developer with experience in multiple programming languages. 
 
 [Check out my bio](https://guns.lol/flonxi) to learn more!  
 
-### 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=flonx1&show_icons=true&theme=radical)  
-
 ### 📫 How to Reach Me  
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/flonxi)  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1216617767495663669)  
